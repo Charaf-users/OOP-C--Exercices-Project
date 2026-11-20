@@ -1,0 +1,7 @@
+C:\Users\charaf eddine jador\OneDrive\Desktop\OOP-C#\Nested-Class\bin\Debug\Nested-Class.exe.config
+C:\Users\charaf eddine jador\OneDrive\Desktop\OOP-C#\Nested-Class\bin\Debug\Nested-Class.exe
+C:\Users\charaf eddine jador\OneDrive\Desktop\OOP-C#\Nested-Class\bin\Debug\Nested-Class.pdb
+C:\Users\charaf eddine jador\OneDrive\Desktop\OOP-C#\Nested-Class\obj\Debug\Nested-Class.csproj.AssemblyReference.cache
+C:\Users\charaf eddine jador\OneDrive\Desktop\OOP-C#\Nested-Class\obj\Debug\Nested-Class.csproj.CoreCompileInputs.cache
+C:\Users\charaf eddine jador\OneDrive\Desktop\OOP-C#\Nested-Class\obj\Debug\Nested-Class.exe
+C:\Users\charaf eddine jador\OneDrive\Desktop\OOP-C#\Nested-Class\obj\Debug\Nested-Class.pdb

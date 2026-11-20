@@ -1,0 +1,7 @@
+C:\Users\charaf eddine jador\OneDrive\Desktop\OOP-C#\Constructors\bin\Debug\Constructors.exe.config
+C:\Users\charaf eddine jador\OneDrive\Desktop\OOP-C#\Constructors\bin\Debug\Constructors.exe
+C:\Users\charaf eddine jador\OneDrive\Desktop\OOP-C#\Constructors\bin\Debug\Constructors.pdb
+C:\Users\charaf eddine jador\OneDrive\Desktop\OOP-C#\Constructors\obj\Debug\Constructors.csproj.AssemblyReference.cache
+C:\Users\charaf eddine jador\OneDrive\Desktop\OOP-C#\Constructors\obj\Debug\Constructors.csproj.CoreCompileInputs.cache
+C:\Users\charaf eddine jador\OneDrive\Desktop\OOP-C#\Constructors\obj\Debug\Constructors.exe
+C:\Users\charaf eddine jador\OneDrive\Desktop\OOP-C#\Constructors\obj\Debug\Constructors.pdb

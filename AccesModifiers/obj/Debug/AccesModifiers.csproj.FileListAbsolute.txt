@@ -1,0 +1,8 @@
+C:\Users\charaf eddine jador\OneDrive\Desktop\OOP-C#\AccesModifiers\bin\Debug\AccesModifiers.exe.config
+C:\Users\charaf eddine jador\OneDrive\Desktop\OOP-C#\AccesModifiers\bin\Debug\AccesModifiers.exe
+C:\Users\charaf eddine jador\OneDrive\Desktop\OOP-C#\AccesModifiers\bin\Debug\AccesModifiers.pdb
+C:\Users\charaf eddine jador\OneDrive\Desktop\OOP-C#\AccesModifiers\obj\Debug\AccesModifiers.csproj.AssemblyReference.cache
+C:\Users\charaf eddine jador\OneDrive\Desktop\OOP-C#\AccesModifiers\obj\Debug\AccesModifiers.csproj.CoreCompileInputs.cache
+C:\Users\charaf eddine jador\OneDrive\Desktop\OOP-C#\AccesModifiers\obj\Debug\AccesModifiers.exe
+C:\Users\charaf eddine jador\OneDrive\Desktop\OOP-C#\AccesModifiers\obj\Debug\AccesModifiers.pdb
+C:\Users\charaf eddine jador\OneDrive\Desktop\OOP-C#\AccesModifiers\obj\Debug\AccesModifiers.exe.config

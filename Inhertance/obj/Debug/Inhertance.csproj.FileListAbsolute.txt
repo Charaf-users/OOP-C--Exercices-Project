@@ -1,0 +1,7 @@
+C:\Users\charaf eddine jador\OneDrive\Desktop\OOP-C#\Inhertance\bin\Debug\Inhertance.exe.config
+C:\Users\charaf eddine jador\OneDrive\Desktop\OOP-C#\Inhertance\bin\Debug\Inhertance.exe
+C:\Users\charaf eddine jador\OneDrive\Desktop\OOP-C#\Inhertance\bin\Debug\Inhertance.pdb
+C:\Users\charaf eddine jador\OneDrive\Desktop\OOP-C#\Inhertance\obj\Debug\Inhertance.csproj.AssemblyReference.cache
+C:\Users\charaf eddine jador\OneDrive\Desktop\OOP-C#\Inhertance\obj\Debug\Inhertance.csproj.CoreCompileInputs.cache
+C:\Users\charaf eddine jador\OneDrive\Desktop\OOP-C#\Inhertance\obj\Debug\Inhertance.exe
+C:\Users\charaf eddine jador\OneDrive\Desktop\OOP-C#\Inhertance\obj\Debug\Inhertance.pdb

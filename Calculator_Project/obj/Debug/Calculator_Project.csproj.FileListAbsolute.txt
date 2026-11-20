@@ -1,0 +1,8 @@
+C:\Users\charaf eddine jador\OneDrive\Desktop\OOP-C#\Calculator_Project\bin\Debug\Calculator_Project.exe.config
+C:\Users\charaf eddine jador\OneDrive\Desktop\OOP-C#\Calculator_Project\bin\Debug\Calculator_Project.exe
+C:\Users\charaf eddine jador\OneDrive\Desktop\OOP-C#\Calculator_Project\bin\Debug\Calculator_Project.pdb
+C:\Users\charaf eddine jador\OneDrive\Desktop\OOP-C#\Calculator_Project\obj\Debug\Calculator_Project.csproj.AssemblyReference.cache
+C:\Users\charaf eddine jador\OneDrive\Desktop\OOP-C#\Calculator_Project\obj\Debug\Calculator_Project.csproj.CoreCompileInputs.cache
+C:\Users\charaf eddine jador\OneDrive\Desktop\OOP-C#\Calculator_Project\obj\Debug\Calculator_Project.exe
+C:\Users\charaf eddine jador\OneDrive\Desktop\OOP-C#\Calculator_Project\obj\Debug\Calculator_Project.pdb
+C:\Users\charaf eddine jador\OneDrive\Desktop\OOP-C#\Calculator_Project\obj\Debug\Calculator_Project.exe.config

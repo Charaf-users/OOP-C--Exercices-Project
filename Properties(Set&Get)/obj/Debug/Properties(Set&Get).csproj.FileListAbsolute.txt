@@ -1,0 +1,8 @@
+C:\Users\charaf eddine jador\OneDrive\Desktop\OOP-C#\Properties(Set&Get)\bin\Debug\Properties(Set&Get).exe.config
+C:\Users\charaf eddine jador\OneDrive\Desktop\OOP-C#\Properties(Set&Get)\bin\Debug\Properties(Set&Get).exe
+C:\Users\charaf eddine jador\OneDrive\Desktop\OOP-C#\Properties(Set&Get)\bin\Debug\Properties(Set&Get).pdb
+C:\Users\charaf eddine jador\OneDrive\Desktop\OOP-C#\Properties(Set&Get)\obj\Debug\Properties(Set&Get).csproj.AssemblyReference.cache
+C:\Users\charaf eddine jador\OneDrive\Desktop\OOP-C#\Properties(Set&Get)\obj\Debug\Properties(Set&Get).csproj.CoreCompileInputs.cache
+C:\Users\charaf eddine jador\OneDrive\Desktop\OOP-C#\Properties(Set&Get)\obj\Debug\Properties(Set&Get).exe
+C:\Users\charaf eddine jador\OneDrive\Desktop\OOP-C#\Properties(Set&Get)\obj\Debug\Properties(Set&Get).pdb
+C:\Users\charaf eddine jador\OneDrive\Desktop\OOP-C#\Properties(Set&Get)\obj\Debug\Properties(Set&Get).exe.config
